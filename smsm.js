@@ -658,7 +658,7 @@ smsm.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -677,7 +677,7 @@ smsm2.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -696,7 +696,7 @@ smsm3.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -715,7 +715,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -734,7 +734,7 @@ smsm5.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -753,7 +753,7 @@ smsm6.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -772,7 +772,7 @@ smsm7.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -791,7 +791,7 @@ smsm8.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -810,7 +810,7 @@ smsm9.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -829,7 +829,7 @@ smsm10.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -848,7 +848,7 @@ smsm11.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -867,7 +867,7 @@ smsm12.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -886,7 +886,7 @@ smsm13.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -905,7 +905,7 @@ smsm14.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -924,7 +924,7 @@ smsm15.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -943,7 +943,7 @@ smsm16.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -962,7 +962,7 @@ smsm17.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -981,7 +981,7 @@ smsm18.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -1000,7 +1000,7 @@ smsm19.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -1019,7 +1019,7 @@ smsm20.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -1038,7 +1038,7 @@ smsm21.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
@@ -1057,7 +1057,7 @@ smsm22.on("ready", () => {
   );
   let statuses = [
   
-  ``,
+  `Dj up `,
 
   ];
   setInterval(function() {
